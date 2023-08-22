@@ -20,7 +20,7 @@ Rocket Booster is a 3D game project developed as part of the "Complete C# Unity 
 ## How to Play
 
 1. Clone this repository using `git clone https://github.com/Razib-R75/Rocket-Boost3D.git`
-2. Open the project in Unity (version X.X.X or higher).
+2. Open the project in Unity (version 2022.3.5f1).
 3. Run the game by pressing the Play button in the Unity Editor.
 4. Use arrow keys or WASD to control the rocket. Press Spacebar to activate boosters.
 
